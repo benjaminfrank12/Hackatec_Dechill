@@ -1,0 +1,3 @@
+Instalar la libreria de Telegram
+
+pip install pyTelegramBotAPI
